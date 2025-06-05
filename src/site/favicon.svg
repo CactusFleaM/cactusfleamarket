@@ -1,47 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="26px" viewBox="0 0 32 26" enable-background="new 0 0 32 26" xml:space="preserve">  <image id="image0" width="32" height="26" x="0" y="0"
-    xlink:href="data:image/png;base64,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" />
+<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <rect x="37.0753" y="36.0532" width="26.8836" height="18.1139" fill="#FFFFFF"/>
+    <polygon fill="#EA5A47" stroke="#EA5A47" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="50.2353,23.2 38.1,36 63.5,36"/>
+    <path fill="#EA5A47" d="M47.3,26l-6.4,6.0595v-8.5733c0-0.9313,0.7549-1.4162,1.6862-1.4162h3.0276 c0.9313,0,1.6862,0.4849,1.6862,1.4162C47.3,23.4862,47.3,26,47.3,26z"/>
+    <rect x="43" y="42" width="6" height="12" fill="#A57939"/>
+    <rect x="54" y="42" width="6" height="5" fill="#92D3F5"/>
+    <path fill="#B1CC33" d="M41.0059,28.3393c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662 c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043 C7.9656,28.6665,6,30.8102,6,33.3136c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207 c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
+  </g>
+  <g id="hair"/>
+  <g id="skin"/>
+  <g id="skin-shadow"/>
+  <g id="line">
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,27 50.2353,23 64,35.0976 64,54 38,54 38,41.5482"/>
+    <rect x="43" y="42" width="6" height="12" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <rect x="54" y="42" width="6" height="5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="43.5,23 46.5,23 46.5,26"/>
+    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M31.245,39.3396"/>
+    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22.5,54 22.5,46.8269 17.5,42"/>
+    <line x1="23.0408" x2="25.885" y1="46.7265" y2="43.7657" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M41.0059,28.3393 c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554 c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043C7.9656,28.6665,6,30.8102,6,33.3136 c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385 c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
+    <line x1="63.5" x2="42.5" y1="36" y2="36" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
 </svg>
