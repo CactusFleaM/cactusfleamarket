@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games-log/figment2-creed-valley/","dgHomeLink":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgShowFileTree":true,"dgEnableSearch":true,"dgShowToc":true,"dgLinkPreview":true,"dgShowTags":true,"created":"2024-07-15T17:10:23.428+08:00"}
+{"dg-publish":true,"permalink":"/games-log/figment2-creed-valley/","created":"2024-07-15T17:10:23.428+08:00"}
 ---
 
 
