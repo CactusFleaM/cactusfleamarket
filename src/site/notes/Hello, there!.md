@@ -20,15 +20,15 @@
 
 ### Movies and dramas
 
-影视剧我也没有特别偏好的类型，但是我更喜欢看电影，因为电视剧实在太长了，我不喜欢这种“煎熬”的感觉，只有在看电影的时候我会觉得这一两个钟的时间是完全属于我的。当然我最喜欢精神、意识和梦境一类的奇幻片或者科幻片，我非常喜欢电影[坠入](https://zh.wikipedia.org/zh-hk/坠入)，里面光怪陆离的幻想实在美绝。
+影视剧我也没有特别偏好的类型，但是我更喜欢看电影，因为电视剧实在太长了，我不喜欢这种“煎熬”的感觉，只有在看电影的时候我会觉得这一两个钟的时间是完全属于我的。当然我最喜欢精神、意识和梦境一类的奇幻片或者科幻片，我非常喜欢电影[坠入 The Fall](https://www.imdb.com/title/tt0460791/?ref_=fn_all_ttl_3)，里面光怪陆离的幻想实在美绝。
 
-最近（今年5月）看的电视剧是[《善德女王》](https://zh.wikipedia.org/zh-hk/善德女王_(韓國電視劇))和[《大长今》](https://zh.wikipedia.org/zh-tw/大長今_(電視劇))，非常推荐去看看这两部电视剧，虽然很长，但是我在看的时候完全不会觉得难熬，而且这两部剧对于女性形象的塑造真的很出彩。
+最近（今年5月）看的电视剧是[《善德女王》](https://zh.wikipedia.org/zh-hk/善德女王_(韓國電視劇))和[《大长今》](https://zh.wikipedia.org/zh-tw/大長今_(電視劇))[^2]，非常推荐去看看这两部电视剧，虽然很长，但是我在看的时候完全不会觉得难熬，而且这两部剧对于女性形象的塑造真的很出彩。
 
 最近（今年5月）看的电影中印象最深刻的是[移魂都市](https://www.imdb.com/title/tt0118929/)，在此就不剧透了，不过我要说这部片结局打斗真的非常好笑。
 
 ### Games
 
-我目前手持的设备有XBOX和NS，偶尔也会用PC和Apple Arcade（Apple出的游戏订阅服务）玩点小游戏。我喜欢FPS和TPS的游戏，所以已经把[Halo](https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/)的Reach和[战争机器系列](https://store.steampowered.com/search/?developer=The%20Coalition)[^2]玩了好多遍，相关的书籍和电影我也找来看过，最近也把XGPU在库的COD系列的战役都通关了。
+我目前手持的设备有XBOX和NS，偶尔也会用PC和Apple Arcade（Apple出的游戏订阅服务）玩点小游戏。我喜欢FPS和TPS的游戏，所以已经把[Halo](https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/)的Reach和[战争机器系列](https://store.steampowered.com/search/?developer=The%20Coalition)[^3]玩了好多遍，相关的书籍和电影我也找来看过，最近也把XGPU在库的COD系列的战役都通关了。
 
 我在XBOX上通关的第一款游戏是[Psychonauts 2](https://store.steampowered.com/app/607080/Psychonauts_2/)，其实当初促成我买XBOX的一大原因也是因为看了这个游戏的trailer，Tim Burton的画风，进入人类的大脑，完全就是我喜欢的类型。实际上手后果然没有让我失望。它汉化之后我还没玩三周目，等我玩完以后我一定要给它写篇文（我都建好了文档[[Games Log/Psychonauts 2\|Psychonauts 2]]）。
 
@@ -44,10 +44,11 @@ NS现在是我的健身启动器，我打开NS的动力就是玩健身环和有�
 
 感谢你看到这里！你能看互联网的人碎碎念到这里，也非常厉害喔！
 
-非常感谢插件[Obsidian-Digital-Garden](https://github.com/oleeskild/obsidian-digital-garden)的作者oleeskild及所有的Contributors，是你们让人们分享知识、分享日常变得更为简单便捷，不用再拘泥于任何繁复的形式，也让我能有个新的小天地自说自话[^3]。
+非常感谢插件[Obsidian-Digital-Garden](https://github.com/oleeskild/obsidian-digital-garden)的作者oleeskild及所有的Contributors，是你们让人们分享知识、分享日常变得更为简单便捷，不用再拘泥于任何繁复的形式，也让我能有个新的小天地自说自话[^4]。
 
 <div style="text-align: right;">-rh10hd</div>
 
 [^1]: 具体的迁移过程在这里[[Collage/Moving Out of Gridea\|Moving Out of Gridea]]
-[^2]: 链接放的都是Steam，是因为XBOX商店的链接实在不好找。
-[^3]: 如果有朋友遇到了我，请不要戳穿:-D
+[^2]: 《大长今》的英文标题是Jewel in the Palace，还挺有意思的
+[^3]: 链接放的都是Steam，是因为XBOX商店的链接实在不好找。
+[^4]: 如果有认识的朋友看到了，请不要戳穿:-D
