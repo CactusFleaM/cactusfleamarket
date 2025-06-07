@@ -4,9 +4,11 @@
 
 ## About the digital garden
 
-你好，这是我的个人博客，我喜欢玩游戏，我也爱看书和看影视剧，目前正在学习韩语。我偶尔会在这里分享自己读过的书，看过的电影，玩过的游戏，好玩的和韩语相关的东西，当然还有无聊的日常，如果你能从我的博文里找到一点点共鸣，那我非常开心。
+你好，这是我的个人博客，我喜欢玩游戏，我也爱看书和看影视剧，偶尔会捣鼓一些技术类的东西，目前正在学习韩语。我偶尔会在这里分享自己读过的书，看过的电影，玩过的游戏，好玩的和韩语相关的东西，当然还有无聊的日常，如果你能从我的博文里找到一点点共鸣，那我非常开心。
 
 因为我之前一直在使用[Gridea](https://github.com/getgridea/gridea)建立的博客，名字是2H ISLAND，现在我把原先博客的文章都迁移到这里了[^1]，所以如果你对某些文字有似曾相识的感觉，那可能不是你的错觉:-)
+
+现在博客的名称Cactus Flea Market是因为我很喜欢仙人掌和绿色，而Flea Market是因为博客的内容非常杂乱，就像一个跳蚤市场一样。
 
 ## Overview
 
@@ -28,7 +30,7 @@
 
 ### Games
 
-我目前手持的设备有XBOX和NS，偶尔也会用PC和Apple Arcade（Apple出的游戏订阅服务）玩点小游戏。我喜欢FPS和TPS的游戏，所以已经把[Halo](https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/)的Reach和[战争机器系列](https://store.steampowered.com/search/?developer=The%20Coalition)[^3]玩了好多遍，相关的书籍和电影我也找来看过，最近也把XGPU在库的COD系列的战役都通关了。
+我目前手持的设备有XBOX和NS，偶尔也会用PC和Apple Arcade（Apple出的游戏订阅服务）玩点小游戏。我喜欢FPS和TPS的游戏，所以已经把[HALO](https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/)的Reach和[战争机器系列](https://store.steampowered.com/search/?developer=The%20Coalition)[^3]玩了好多遍，相关的书籍和电影我也找来看过，最近也把XGPU在库的COD系列的战役都通关了。
 
 我在XBOX上通关的第一款游戏是[Psychonauts 2](https://store.steampowered.com/app/607080/Psychonauts_2/)，其实当初促成我买XBOX的一大原因也是因为看了这个游戏的trailer，Tim Burton的画风，进入人类的大脑，完全就是我喜欢的类型。实际上手后果然没有让我失望。它汉化之后我还没玩三周目，等我玩完以后我一定要给它写篇文（我都建好了文档[[Games Log/Psychonauts 2\|Psychonauts 2]]）。
 
@@ -47,6 +49,8 @@ NS现在是我的健身启动器，我打开NS的动力就是玩健身环和有�
 非常感谢插件[Obsidian-Digital-Garden](https://github.com/oleeskild/obsidian-digital-garden)的作者oleeskild及所有的Contributors，是你们让人们分享知识、分享日常变得更为简单便捷，不用再拘泥于任何繁复的形式，也让我能有个新的小天地自说自话[^4]。
 
 <div style="text-align: right;">-rh10hd</div>
+
+<div style="text-align: right;">2025-06-04</div>
 
 [^1]: 具体的迁移过程在这里[[Collage/Moving Out of Gridea\|Moving Out of Gridea]]
 [^2]: 《大长今》的英文标题是Jewel in the Palace，还挺有意思的
